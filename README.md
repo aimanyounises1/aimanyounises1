@@ -12,11 +12,11 @@
   Hi, I'm Aiman Younis, CS student at Ariel university.
   <br>
   <br>
-  🔬 I'm currently about to finish my B.Sc
+  🔬 About to finish my B.Sc
  </br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and learn anythings about it.
   <br>
-  📚 I’m currently learning how to webs development.
+  📚 I’m currently learning JS & web developments.
   <br>
   📫 How to reach me: <a href="mailto: aimanyounises@gmail.com">aimanyounises@gmail.com</a>
 </p>
