@@ -43,5 +43,6 @@
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="Flask" height="25" src="images/flask.png"></code>
+  <code> <img title ="Django" height = "25" src ="images/django.png"></code>
 </p>
 <hr>
