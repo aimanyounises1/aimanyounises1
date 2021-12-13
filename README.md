@@ -16,7 +16,7 @@
  </br>
   💻 I love writing code and learn anythings about it.
   <br>
-  📚 I’m currently learning JS & web developments.
+  📚 I’m currently learning JS & web developments with DJANGO.
   <br>
   📫 How to reach me: <a href="mailto: aimanyounises@gmail.com">aimanyounises@gmail.com</a>
 </p>
