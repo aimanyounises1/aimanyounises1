@@ -19,6 +19,8 @@
   📚 I’m currently learning JS & web developments with DJANGO.
   <br>
   📫 How to reach me: <a href="mailto: aimanyounises@gmail.com">aimanyounises@gmail.com</a>
+  <br>
+  Obessed with AI, Machine learning , Deep Learining and Computer vision.
 </p>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
