@@ -9,7 +9,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Aiman Younis, CS student at Ariel university.
+  Hi, I'm Aiman Younis,B.Sc in CS from Ariel university.
   <br>
   <br>
   🔬 About to finish my B.Sc
