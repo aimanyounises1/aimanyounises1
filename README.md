@@ -12,7 +12,7 @@
   Hi, I'm Aiman Younis,B.Sc in CS from Ariel university.
   <br>
   <br>
-  🔬 About to finish my B.Sc
+  🔬 B.Sc in CS 
  </br>
   💻 I love writing code and learn anythings about it.
   <br>
