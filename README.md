@@ -14,9 +14,9 @@
   <br>
   🔬 B.Sc in CS 
  </br>
-  💻 I love writing code and learn anythings about it.
+  💻 I love coding and learn anythings about it.
   <br>
-  📚 I’m currently learning JS,TS,NodeJS, Spring java and a little bit of physics.
+  📚 I’m currently learning JS,TS,NodeJS, SpringBoot java and a little bit of physics.
   <br>
   📫 How to reach me: <a href="mailto: aimanyounises@gmail.com">aimanyounises@gmail.com</a>
   <br>
