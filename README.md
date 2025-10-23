@@ -47,7 +47,7 @@
   <br>
   ✅ Successfully transformed a critical at-risk project to delivery within months of joining the team
   <br>
-  ✅ Resolved 6 critical production issues with unanimous commendation from leadership
+  ✅ Resolved critical production issues with unanimous commendation from leadership
   <br>
   ✅ Contributed to large-scale digital transformation projects for global telecommunications clients
   <br>
