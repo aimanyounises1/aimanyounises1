@@ -72,7 +72,6 @@ Developed an embedded perception system for autonomous navigation with priority 
 - Advanced TypeScript and Node.js application design
 - Spring Boot architecture patterns
 - Applied machine learning and generative AI systems
-- Interdisciplinary exploration in physics and theoretical computer science
 
 ---
 
