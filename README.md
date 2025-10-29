@@ -4,15 +4,15 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aimanyounises1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aimanyounises@gmail.com)
 
-**Senior Full-Stack Engineer specializing in C++/CUDA optimization and cutting-edge AI system architecture**
+**Senior Full-Stack Engineer passionate about AI innovation and multi-agent systems**
 
 ---
 
 ## About Me
 
-Senior Full-Stack Engineer at Amdocs with 3+ years building enterprise-scale telecom solutions for tier-one providers. I architect production systems that combine mission-critical performance with intelligent automation, delivering measurable business impact across distributed teams.
+Senior Full-Stack Engineer at Amdocs with 3+ years building enterprise-scale telecom solutions for tier-one providers. My professional experience centers on React frontend development and Java backend with Spring Boot, delivering production systems for mission-critical telecommunications infrastructure.
 
-My unique technical positioning bridges two demanding domains: **low-level systems programming** (C++, CUDA, GPU optimization) and **cutting-edge AI innovations** (multi-agent systems, GraphRAG, LangGraph). This rare combination enables me to build high-performance AI solutions that scale from embedded hardware to enterprise infrastructure.
+Beyond my day-to-day work, I'm deeply passionate about AI and actively building cutting-edge AI innovations including multi-agent systems, GraphRAG implementations, and enterprise automation platforms. These personal projects represent my ambition to transition into AI engineering roles where I can combine my full-stack expertise with my passion for intelligent systems.
 
 B.Sc. in Computer Science and Mathematics from Ariel University (2022, high distinction). Pioneer Award recipient. Fluent in English, Hebrew, and Arabic.
 
@@ -43,21 +43,17 @@ Production-grade autonomous task orchestration system implementing hierarchical 
 
 ---
 
-## ⚡ C++ & CUDA Mastery
+## 💻 Interview Preparation & Learning
 
 ### [C_Plus_Plus_Advanced](https://github.com/aimanyounises1/C_Plus_Plus_Advanced)
-**130+ CUDA & C++ exercises: NVIDIA interview prep, GPU optimization, production implementations**
+**Learning C++ and CUDA for technical interviews**
 
-Comprehensive mastery of modern C++ and CUDA programming featuring:
-- **130+ production-quality implementations** covering advanced language features and GPU programming
-- **NVIDIA interview preparation** with optimized solutions and performance analysis
-- **CUDA optimization expertise**: memory coalescing, kernel tuning, shared memory patterns
-- **Real-world projects**: Custom memory allocators, CUDA raytracer, ML inference engine, physics simulation
-- **Academic projects**: solver, itertools-b, wargame-bb, AP series with 10-15x optimization demonstrations
+Actively learning modern C++ and CUDA programming through structured practice:
+- 130+ exercises covering C++ language features and GPU programming fundamentals
+- Working through CUDA optimization concepts: memory management, kernel programming, parallel computing
+- Building foundational projects to understand performance-critical programming
 
-Demonstrates proficiency in template metaprogramming, concurrency, move semantics, and high-performance computing patterns essential for systems programming roles.
-
-**Tech Stack:** C++17/20, CUDA, CMake, GPU Architecture, Parallel Computing
+**Learning Focus:** C++17/20, CUDA basics, algorithms, data structures
 
 ---
 
@@ -157,44 +153,36 @@ Deployment: Docker containerization
 
 ## 🛠️ Technical Skills
 
-### Languages & Core Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+### Professional Experience
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-### AI/ML Frameworks
+**Full-Stack Development:** React, Java, Spring Boot, REST APIs, enterprise telecom systems
+
+### AI/ML Innovation Projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0066CC?style=flat-square)
 ![AutoGen](https://img.shields.io/badge/AutoGen-7B68EE?style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-**Specialized:** Multi-Agent Systems, GraphRAG, MCP Protocol, Ollama, Chainlit, YOLO, BERT, RepNet
+**AI Technologies:** Multi-Agent Systems, GraphRAG, MCP Protocol, Ollama, RAG, LangChain, LangGraph, AutoGen
 
-### Full-Stack & Cloud
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+### Additional Technologies
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-### Infrastructure & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### Databases & Data
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
 ---
 
@@ -202,10 +190,13 @@ Deployment: Docker containerization
 
 **Senior Full-Stack Engineer · Amdocs** (Mar 2022 – Present)
 
-- Led modernization of mission-critical telecom systems for tier-one providers, stabilizing delivery and restoring customer confidence through architectural improvements
-- Built AI-driven developer enablement tools improving debugging efficiency and reducing production incident resolution time by 40%
-- Pioneered multi-agent automation systems for enterprise workflow orchestration across JIRA, Confluence, and Perforce
-- Recognized with Pioneer Award at company summit for measurable business impact and technical innovation. Multiple Employee of the Month awards for delivery excellence.
+- Full-stack development with React frontend and Java backend using Spring Boot framework
+- Built and maintained enterprise-scale telecom systems for tier-one providers
+- Led modernization efforts for mission-critical production systems
+- Developed developer enablement tools to improve debugging efficiency and reduce incident resolution time
+- Recognized with Pioneer Award and multiple Employee of the Month awards for delivery excellence
+
+**Core Technologies:** React, Java, Spring Boot, enterprise telecom systems
 
 ---
 
@@ -219,7 +210,7 @@ Graduated with high distinction. Specialized coursework in Natural Language Proc
 
 ## 📫 Contact
 
-Open to technical discussions and collaboration on AI/ML systems, high-performance computing, and enterprise automation.
+Open to opportunities in AI engineering where I can apply my full-stack background and passion for intelligent systems.
 
 **Email:** [aimanyounises@gmail.com](mailto:aimanyounises@gmail.com)
 **LinkedIn:** [linkedin.com/in/aimanyounis](https://linkedin.com/in/aimanyounis)
@@ -228,5 +219,5 @@ Open to technical discussions and collaboration on AI/ML systems, high-performan
 ---
 
 <div align="center">
-<sub>Building intelligent systems at the intersection of performance and innovation</sub>
+<sub>Full-Stack Engineer building AI innovations</sub>
 </div>
