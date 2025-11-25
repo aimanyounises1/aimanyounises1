@@ -1,223 +1,147 @@
-# Aiman Younis
+# Hi there, I'm Aiman Younis 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aimanyounis)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aimanyounises1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aimanyounises@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aimanyounis)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aimanyounises1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aimanyounises@gmail.com)
 
-**Senior Full-Stack Engineer passionate about AI innovation and multi-agent systems**
-
----
-
-## About Me
-
-Senior Full-Stack Engineer at Amdocs with 3+ years building enterprise-scale telecom solutions for tier-one providers. My professional experience centers on React frontend development and Java backend with Spring Boot, delivering production systems for mission-critical telecommunications infrastructure.
-
-Beyond my day-to-day work, I'm deeply passionate about AI and actively building cutting-edge AI innovations including multi-agent systems, GraphRAG implementations, and enterprise automation platforms. These personal projects represent my ambition to transition into AI engineering roles where I can combine my full-stack expertise with my passion for intelligent systems.
-
-B.Sc. in Computer Science and Mathematics from Ariel University (2022, high distinction). Pioneer Award recipient. Fluent in English, Hebrew, and Arabic.
+### Senior Full-Stack Engineer | AI Innovation Enthusiast | Multi-Agent Systems Builder
 
 ---
 
-## 🚀 AI Innovation Projects
+## 🧑‍💻 About Me
 
-### [AlphaAI](https://github.com/aimanyounises1/AlphaAI)
-**Local multi-agent RAG system combining GraphRAG, AutoGen & Ollama with Chainlit UI**
+I'm a **Senior Full-Stack Engineer at Amdocs** with 3+ years of experience building enterprise-scale telecom solutions for tier-one providers. My professional work centers on **React frontend development** and **Java/Spring Boot backend systems**, delivering mission-critical production infrastructure.
 
-Production-ready knowledge discovery platform featuring GraphRAG's entity-relationship extraction with AutoGen's multi-agent orchestration. Implements extended function-calling support for non-OpenAI LLMs, enabling fully local deployments. Built with Chainlit interface for real-time agent interaction and workflow automation.
+Beyond my day-to-day work, I'm deeply passionate about **AI and intelligent systems**. I actively build cutting-edge AI innovations including multi-agent systems, GraphRAG implementations, and enterprise automation platforms. These personal projects represent my ambition to transition into AI engineering roles where I can combine my full-stack expertise with my passion for building intelligent systems.
 
-**Tech Stack:** GraphRAG, AutoGen, Ollama, Chainlit, Python, LangChain
+🎓 **B.Sc. in Computer Science & Mathematics** from Ariel University (2022, High Distinction)  
+🏆 **Pioneer Award** recipient | Multiple **Employee of the Month** awards  
+🌍 Fluent in **English**, **Hebrew**, and **Arabic**  
+📍 Based in **Israel**
 
-### [ollama-deep-researcher](https://github.com/aimanyounises1/ollama-deep-researcher)
-**LangGraph-powered deep research system with RAG, knowledge graphs & web search**
+---
 
-Enterprise research automation platform with 63-module LangGraph architecture. Features supervisor-researcher agent pattern with MCP protocol integration for Perforce, JIRA, and Confluence. Implements automated data correlation pipelines with knowledge graph construction and multi-source synthesis capabilities.
+## 🛠️ Technologies & Tools
 
-**Tech Stack:** LangGraph, LangChain, Ollama, MCP Protocol, Neo4j, Perforce API, JIRA API
+### Professional Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### AI/ML Innovation Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Currently Learning
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+---
+
+## 🚀 Featured AI Innovation Projects
+
+### [AlphaAI](https://github.com/aimanyounises1/AlphaAI) 
+**Local Multi-Agent RAG System with GraphRAG, AutoGen & Ollama**
+
+A production-ready, privacy-first knowledge discovery platform that combines Microsoft's GraphRAG entity-relationship extraction with AutoGen's multi-agent orchestration. Features extended function-calling support for non-OpenAI LLMs, enabling fully local deployments with Chainlit UI for real-time agent interaction.
+
+`GraphRAG` `AutoGen` `Ollama` `Chainlit` `Python` `LangChain` `Supabase` `NetworkX`
+
+---
 
 ### [enterprise-multi-agent-research](https://github.com/aimanyounises1/enterprise-multi-agent-research)
-**Enterprise multi-agent AI system orchestrating JIRA, Confluence & Perforce**
+**Enterprise Multi-Agent AI System with MCP Protocol**
 
-Production-grade autonomous task orchestration system implementing hierarchical multi-agent architecture. Features specialized agents for code analysis, documentation synthesis, and workflow automation. Deployed in enterprise environments for complex research and cross-system data integration.
+Production-grade autonomous task orchestration implementing hierarchical multi-agent architecture. Features specialized agents for code analysis, documentation synthesis, and workflow automation with MCP Protocol for standardized AI-tool communication across Perforce, JIRA, and Confluence.
 
-**Tech Stack:** Python, MCP Protocol, Multi-Agent Systems, Enterprise APIs, LangChain
+`Python` `MCP Protocol` `LangGraph` `LangChain` `FastMCP` `Docker`
 
 ---
 
-## 💻 Interview Preparation & Learning
+### [ollama-deep-researcher](https://github.com/aimanyounises1/ollama-deep-researcher)
+**LangGraph-Powered Deep Research System**
+
+Enterprise research automation platform with 63-module LangGraph architecture. Features supervisor-researcher agent pattern, advanced anti-hallucination system with fact checking and multi-agent consensus, plus knowledge graph generation from research findings.
+
+`LangGraph` `LangChain` `Ollama` `FAISS` `Neo4j` `Next.js` `Flask`
+
+---
+
+### [FinalProject](https://github.com/aimanyounises1/FinalProject)
+**Autonomous Car & Self-Driving System**
+
+Computer vision-powered autonomous driving project featuring lane detection, object tracking with DeepSort, and Kalman filtering for vehicle control. Demonstrates deep learning and real-time image processing capabilities.
+
+`Python` `OpenCV` `DeepSort` `Kalman Filter` `Jupyter Notebook`
+
+---
 
 ### [C_Plus_Plus_Advanced](https://github.com/aimanyounises1/C_Plus_Plus_Advanced)
-**Learning C++ and CUDA for technical interviews**
+**Modern C++ & CUDA Learning Repository**
 
-Actively learning modern C++ and CUDA programming through structured practice:
-- 130+ exercises covering C++ language features and GPU programming fundamentals
-- Working through CUDA optimization concepts: memory management, kernel programming, parallel computing
-- Building foundational projects to understand performance-critical programming
+Active learning journey through 130+ exercises covering C++17/20 features, CUDA GPU programming, memory management, and performance-critical algorithms. Focused on building foundational skills for systems programming.
 
-**Learning Focus:** C++17/20, CUDA basics, algorithms, data structures
+`C++` `CUDA` `Algorithms` `Data Structures`
 
 ---
 
-## 🔬 AI Innovation Deep Dive
+## 📊 GitHub Stats
 
-### [AlphaAI](https://github.com/aimanyounises1/AlphaAI) - Local Multi-Agent RAG System
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aimanyounises1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimanyounises1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>p>
 
-**What We Built:**
-- Privacy-first knowledge discovery platform combining GraphRAG knowledge graphs with AutoGen multi-agent orchestration
-- Extended AutoGen's function-calling capabilities to work with non-OpenAI LLMs via LiteLLM proxy
-- Interactive Chainlit UI with real-time agent communication and workflow visualization
-- Full-stack application with Supabase backend for persistent conversations and user authentication
-
-**Technical Implementation:**
-- **GraphRAG Integration**: Entity extraction, relationship mapping, hierarchical clustering, community detection (Louvain algorithm)
-- **Multi-Agent Architecture**: 5 specialized agents (User Proxy, Retriever, Tester, Coder, Code Reviewer) with group chat coordination
-- **Knowledge Graph Algorithms**: Betweenness centrality, PageRank, NetworkX graph operations
-- **RAG Strategies**: Local search (specific entities) vs. Global search (community summaries)
-- **Code Generation**: Specialized Coder Agent generates Spring Boot applications with Delegate/Service patterns
-
-**Technologies & Libraries:**
-```python
-Core: Python, pyautogen, graphrag (Microsoft), litellm[proxy]
-LLMs: ollama (Mistral, Llama3 local inference)
-RAG: langchain, tiktoken, sentence-transformers
-Backend: supabase (PostgreSQL, Auth, Real-time)
-UI: chainlit (conversational AI interface)
-Graph: networkx, pytorch
-Deployment: Docker Compose
-```
-
----
-
-### [ollama-deep-researcher](https://github.com/aimanyounises1/ollama-deep-researcher) - Enterprise Research Automation
-
-**What We Built:**
-- Production-grade research assistant with 63 Python modules implementing sophisticated multi-agent workflows
-- Enterprise tool integration via MCP protocol for Perforce (code), JIRA (tickets), Confluence (docs)
-- Advanced anti-hallucination system with fact checking, self-verification, and multi-agent consensus
-- Knowledge graph generation from research findings with temporal correlation analysis
-
-**Technical Implementation:**
-- **LangGraph State Machine**: 28 files in `src/assistant/` covering research orchestration, RAG, verification, processors
-- **Supervisor-Researcher Pattern**: Supervisor delegates research sections to parallel agents with progress tracking
-- **Multi-Iteration Research**: Configurable research loops (default 3) with incremental knowledge building
-- **RAG Architecture**: FAISS vector storage, semantic deduplication, source weighting, hybrid search
-- **Citation Tracking**: Every claim linked to original source with confidence scoring
-- **Cross-Source Analysis**: Correlates data across Perforce changelists, JIRA issues, Confluence pages
-
-**Technologies & Libraries:**
-```python
-Orchestration: langgraph, langchain, langchain_ollama
-Enterprise APIs: p4python (Perforce), jira, atlassian-python-api
-RAG: sentence_transformers, faiss-cpu, chromadb
-Search: tavily_python (web search API)
-Graph: networkx (knowledge graph construction)
-Processing: pdfplumber, pytesseract, pandas, numpy
-Frontend: Next.js, React
-Backend: Flask
-Deployment: Docker, Docker Compose
-```
-
-**Real Deployment:** Automated analysis of VIT tickets with MTV integrations, reducing manual investigation from hours to minutes.
-
----
-
-### [enterprise-multi-agent-research](https://github.com/aimanyounises1/enterprise-multi-agent-research) - MCP Protocol Implementation
-
-**What We Built:**
-- Enterprise multi-agent system using Model Context Protocol (MCP) for standardized AI-tool communication
-- Supervisor-researcher architecture with parallel section research and dynamic task delegation
-- Unified search interface across enterprise systems (Perforce, JIRA, Confluence)
-- Production deployment with comprehensive testing, logging, and documentation
-
-**Technical Implementation:**
-- **MCP Protocol**: FastMCP for standardized tool integration with automatic discovery and conflict resolution
-- **State Management**: TypedDict-based state flow with reducers for complex data aggregation
-- **Graph Orchestration**: LangGraph with conditional edges for dynamic routing based on research needs
-- **Session Persistence**: Singleton pattern maintaining tool session state across requests
-- **Parallel Execution**: Supervisor creates outline, delegates sections to concurrent researchers
-- **Tool Integration**: Real Perforce changelist analysis, JIRA ticket correlation, Confluence doc synthesis
-
-**Technologies & Libraries:**
-```python
-Core: Python, langchain, langgraph
-MCP: langchain-mcp-adapters, fastmcp, mcp
-Enterprise Tools: python-perforce, jira, atlassian-python-api
-Data Processing: pandas, numpy
-Testing: pytest, pytest-asyncio
-Logging: LangSmith integration for observability
-Deployment: Docker containerization
-```
-
-**Business Value:** "360° Secondary Search Expansion" - automated discovery correlating DOC tasks with API endpoints across enterprise systems.
-
----
-
-## 🛠️ Technical Skills
-
-### Professional Experience
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Full-Stack Development:** React, Java, Spring Boot, REST APIs, enterprise telecom systems
-
-### AI/ML Innovation Projects
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-0066CC?style=flat-square)
-![AutoGen](https://img.shields.io/badge/AutoGen-7B68EE?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-**AI Technologies:** Multi-Agent Systems, GraphRAG, MCP Protocol, Ollama, RAG, LangChain, LangGraph, AutoGen
-
-### Additional Technologies
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aimanyounises1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>p>
 
 ---
 
 ## 💼 Professional Experience
 
-**Senior Full-Stack Engineer · Amdocs** (Mar 2022 – Present)
+**Senior Full-Stack Engineer** @ Amdocs *(Mar 2022 – Present)*
+- Building enterprise-scale telecom systems for tier-one providers
+- - Full-stack development with React frontend and Java/Spring Boot backend
+  - - Leading modernization efforts for mission-critical production systems
+    - - Developing developer enablement tools to improve debugging efficiency
+      - - Recognized with **Pioneer Award** and multiple **Employee of the Month** awards
+       
+        - ---
 
-- Full-stack development with React frontend and Java backend using Spring Boot framework
-- Built and maintained enterprise-scale telecom systems for tier-one providers
-- Led modernization efforts for mission-critical production systems
-- Developed developer enablement tools to improve debugging efficiency and reduce incident resolution time
-- Recognized with Pioneer Award and multiple Employee of the Month awards for delivery excellence
+        ## 🎯 What I'm Working On
 
-**Core Technologies:** React, Java, Spring Boot, enterprise telecom systems
+        - 🔬 Building production-ready multi-agent AI systems with local LLMs
+        - - 📚 Deepening C++ and CUDA knowledge for performance-critical applications
+          - - 🤖 Exploring advanced RAG architectures and knowledge graph implementations
+            - - 🌐 Contributing to open-source AI/ML tooling
+             
+              - ---
 
----
+              ## 📫 Let's Connect
 
-## 🎓 Education
+              I'm open to opportunities in **AI engineering** where I can apply my full-stack background and passion for intelligent systems.
 
-**B.Sc. Computer Science & Mathematics** · Ariel University (2022)
+              [![Email](https://img.shields.io/badge/aimanyounises@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aimanyounises@gmail.com)
+              [![LinkedIn](https://img.shields.io/badge/Aiman_Younis-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aimanyounis)
+              [![GitHub](https://img.shields.io/badge/@aimanyounises1-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/aimanyounises1)
 
-Graduated with high distinction. Specialized coursework in Natural Language Processing, Computer Vision, Deep Learning, and Advanced Algorithms.
+              ---
 
----
+              <p align="center">
+                <img src="https://komarev.com/ghpvc/?username=aimanyounises1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+              </p>p>
 
-## 📫 Contact
-
-Open to opportunities in AI engineering where I can apply my full-stack background and passion for intelligent systems.
-
-**Email:** [aimanyounises@gmail.com](mailto:aimanyounises@gmail.com)
-**LinkedIn:** [linkedin.com/in/aimanyounis](https://linkedin.com/in/aimanyounis)
-**GitHub:** [@aimanyounises1](https://github.com/aimanyounises1)
-
----
-
-<div align="center">
-<sub>Full-Stack Engineer building AI innovations</sub>
-</div>
+              <p align="center">
+                <i>⭐ From <a href="https://github.com/aimanyounises1">aimanyounises1</a>a> — Full-Stack Engineer building AI innovations</i>i>
+              </p>p></i>
