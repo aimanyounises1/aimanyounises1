@@ -140,8 +140,8 @@ Active learning journey through 130+ exercises covering C++17/20 features, CUDA 
 
               <p align="center">
                 <img src="https://komarev.com/ghpvc/?username=aimanyounises1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-              </p>p>
+              </p>
 
               <p align="center">
-                <i>⭐ From <a href="https://github.com/aimanyounises1">aimanyounises1</a>a> — Full-Stack Engineer building AI innovations</i>i>
-              </p>p></i>
+  <i>⭐ From <a href="https://github.com/aimanyounises1">aimanyounises1</a> — Full-Stack Engineer building AI innovations</i>
+              </p>
