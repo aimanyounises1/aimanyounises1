@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-Highly motivated **Senior Software Engineer** specializing in enterprise-scale solutions and Artificial Intelligence integration, with expertise in **Java microservices**, **React ecosystem**, and **multi-agent AI systems**. Proven track record of transforming critical projects from failure to success, implementing production-grade monitoring systems, and developing innovative Enterprise AI solutions.
+Highly motivated **Senior Software Engineer** specializing in enterprise-scale solutions and Artificial Intelligence integration, with expertise in **Java microservices**, **Python for AI/ML**, **React ecosystem**, and **multi-agent AI systems**. Proven track record of transforming critical projects from failure to success, implementing production-grade monitoring systems, and developing innovative Enterprise AI solutions.
 
 Currently at **Amdocs, Raanana** with 3+ years of experience building enterprise-scale telecom solutions for tier-one providers. My professional work centers on **React frontend development** and **Java/Spring Boot backend systems**, delivering mission-critical production infrastructure.
 
@@ -59,6 +59,8 @@ Beyond my day-to-day work, I'm deeply passionate about **AI and intelligent syst
 ### AI/ML Stack
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MCP Protocol](https://img.shields.io/badge/MCP_Protocol-4B0082?style=for-the-badge&logo=protocol&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
