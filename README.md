@@ -135,53 +135,53 @@ Active learning journey through 130+ exercises covering C++17/20 features, CUDA 
 
 **Tool Development & Innovation**
 - Full Stack Engineer expert in Java and SpringBoot microservices, React Js, Redux, Next.js, with databases including MySQL, Couchbase, MongoDB, and Supabase
-- - Engineering innovative developer tools to enhance coding efficiency and streamline defect investigation, improving team productivity in an agile environment
- 
-  - **Project Transformation & Leadership**
-  - - Played a pivotal role in transforming a critical, at-risk project to successful outcome shortly after joining the team, ensuring timely delivery
-    - - Honored with the **Pioneer Award** for exceptional innovation and initiative
-     
-      - **Performance & Recognition**
-      - - Successfully resolved 6 critical one-shot bounces, gaining unanimous commendation from all supervisors for reliability, excellence, and attention to detail
-        - - Consistently acknowledged at annual company summits for contributions to team success
-          - - Achieved **threefold salary increase** over two years, demonstrating consistent performance and value
-           
-            - ---
+- Engineering innovative developer tools to enhance coding efficiency and streamline defect investigation, improving team productivity in an agile environment
 
-            ## 🎓 Education
+**Project Transformation & Leadership**
+- Played a pivotal role in transforming a critical, at-risk project to successful outcome shortly after joining the team, ensuring timely delivery
+- Honored with the **Pioneer Award** for exceptional innovation and initiative
 
-            **B.Sc. in Computer Science & Mathematics** | Ariel University *(2022)*
+**Performance & Recognition**
+- Successfully resolved 6 critical one-shot bounces, gaining unanimous commendation from all supervisors for reliability, excellence, and attention to detail
+- Consistently acknowledged at annual company summits for contributions to team success
+- Achieved **threefold salary increase** over two years, demonstrating consistent performance and value
 
-            - **High Distinction** in Natural Language Processing, Computer Networking
-            - - **90%+ grades** in Algorithms, Software Engineering, Advanced C++ Programming
-              - - **Dual concentration** in Computer Science and Mathematics
-                - - Demonstrated mastery in both theoretical and practical aspects including object-oriented programming principles and fundamental Data Structures
-                 
-                  - ---
+---
 
-                  ## 🎯 What I'm Working On
+## 🎓 Education
 
-                  - 🔬 Building production-ready multi-agent AI systems with local LLMs
-                  - - 📚 Deepening C++ and CUDA knowledge for performance-critical applications
-                    - - 🤖 Exploring advanced RAG architectures and knowledge graph implementations
-                      - - 🌐 Contributing to open-source AI/ML tooling
-                       
-                        - ---
+**B.Sc. in Computer Science & Mathematics** | Ariel University *(2022)*
 
-                        ## 📫 Let's Connect
+- **High Distinction** in Natural Language Processing, Computer Networking
+- **90%+ grades** in Algorithms, Software Engineering, Advanced C++ Programming
+- **Dual concentration** in Computer Science and Mathematics
+- Demonstrated mastery in both theoretical and practical aspects including object-oriented programming principles and fundamental Data Structures
 
-                        I'm open to opportunities in **AI engineering** where I can apply my full-stack background and passion for intelligent systems.
+---
 
-                        [![Email](https://img.shields.io/badge/aimanyounises@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aimanyounises@gmail.com)
-                        [![LinkedIn](https://img.shields.io/badge/Aiman_Younis-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aimanyounis)
-                        [![GitHub](https://img.shields.io/badge/@aimanyounises1-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/aimanyounises1)
+## 🎯 What I'm Working On
 
-                        ---
+- 🔬 Building production-ready multi-agent AI systems with local LLMs
+- 📚 Deepening C++ and CUDA knowledge for performance-critical applications
+- 🤖 Exploring advanced RAG architectures and knowledge graph implementations
+- 🌐 Contributing to open-source AI/ML tooling
 
-                        <p align="center">
-                          <img src="https://komarev.com/ghpvc/?username=aimanyounises1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-                        </p>
+---
 
-                        <p align="center">
-                          <i>⭐ From <a href="https://github.com/aimanyounises1">aimanyounises1</a>a> — Senior Software Engineer building AI innovations</i>i>
-                        </p></i>
+## 📫 Let's Connect
+
+I'm open to opportunities in **AI engineering** where I can apply my full-stack background and passion for intelligent systems.
+
+[![Email](https://img.shields.io/badge/aimanyounises@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aimanyounises@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Aiman_Younis-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aimanyounis)
+[![GitHub](https://img.shields.io/badge/@aimanyounises1-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/aimanyounises1)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aimanyounises1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <i>⭐ From <a href="https://github.com/aimanyounises1">aimanyounises1</a> — Senior Software Engineer building AI innovations</i>
+</p>
