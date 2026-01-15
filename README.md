@@ -20,17 +20,21 @@ Currently at **Amdocs, Raanana** with 4+ years of experience building enterprise
 
 Beyond my day-to-day work, I'm deeply passionate about **AI and intelligent systems**. I actively build cutting-edge AI innovations including multi-agent systems, GraphRAG implementations, and enterprise automation platforms.
 
+<div align="center">
+
 🎓 **B.Sc. in Computer Science & Mathematics** from Ariel University (2022, High Distinction)
 
 🏆 **Pioneer Award** recipient | Multiple **Employee of the Month** awards
 
-🌍 Fluent in **English**, **Hebrew**, and **Arabic**
+🌍 Fluent in **English**, **Hebrew**, and **Arabic** | 📍 Based in **Israel**
 
-📍 Based in **Israel**
+</div>
 
 ---
 
 ## 🛠️ Technologies & Tools
+
+<div align="center">
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -74,67 +78,30 @@ Beyond my day-to-day work, I'm deeply passionate about **AI and intelligent syst
 ### Currently Learning
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
+</div>
+
 ---
 
 ## 🚀 Featured AI Innovation Projects
 
-### 🤖 [AlphaAI](https://github.com/aimanyounises1/AlphaAI)
-> **Local Multi-Agent RAG System with GraphRAG, AutoGen & Ollama**
->
-> A production-ready, privacy-first knowledge discovery platform that combines Microsoft's GraphRAG entity-relationship extraction with AutoGen's multi-agent orchestration.
->
-> `GraphRAG` `AutoGen` `Ollama` `Chainlit` `Python` `LangChain` `Supabase` `NetworkX`
->
-> ---
->
-> ### 🏢 [enterprise-multi-agent-research](https://github.com/aimanyounises1/enterprise-multi-agent-research)
-> > **Enterprise Multi-Agent AI System with MCP Protocol**
-> >
-> > Production-grade autonomous task orchestration implementing hierarchical multi-agent architecture with MCP Protocol for standardized AI-tool communication.
-> >
-> > `Python` `MCP Protocol` `LangGraph` `LangChain` `FastMCP` `Docker`
-> >
-> > ---
-> >
-> > ### 🔬 [ollama-deep-researcher](https://github.com/aimanyounises1/ollama-deep-researcher)
-> > > **LangGraph-Powered Deep Research System**
-> > >
-> > > Enterprise research automation platform with 63-module LangGraph architecture featuring supervisor-researcher agent pattern and anti-hallucination system.
-> > >
-> > > `LangGraph` `LangChain` `Ollama` `FAISS` `Neo4j` `Next.js` `Flask`
-> > >
-> > > ---
-> > >
-> > > ### 🚗 [FinalProject](https://github.com/aimanyounises1/FinalProject)
-> > > > **Autonomous Car & Self-Driving System**
-> > > >
-> > > > Computer vision-powered autonomous driving project featuring lane detection, object tracking with DeepSort, and Kalman filtering.
-> > > >
-> > > > `Python` `OpenCV` `DeepSort` `Kalman Filter` `Jupyter Notebook`
-> > > >
-> > > > ---
-> > > >
-> > > > ### ⚡ [C_Plus_Plus_Advanced](https://github.com/aimanyounises1/C_Plus_Plus_Advanced)
-> > > > > **Modern C++ & CUDA Learning Repository**
-> > > > >
-> > > > > Active learning journey through 130+ exercises covering C++17/20 features and CUDA GPU programming.
-> > > > >
-> > > > > `C++` `CUDA` `Algorithms` `Data Structures`
-> > > > >
-> > > > > ---
-> > > > >
-> > > > > ### 📚 [LangChainTutorial](https://github.com/aimanyounises1/LangChainTutorial)
-> > > > > > **Comprehensive LangChain Learning Resource**
-> > > > > >
-> > > > > > In-depth exploration of LangChain framework capabilities, including RAG pipelines and agent orchestration.
-> > > > > >
-> > > > > > `Python` `LangChain` `AI/ML`
-> > > > > >
-> > > > > > ---
-> > > > > >
-> > > > > > ## 📊 GitHub Stats
-> > > > > >
-> > > > > > <div align="center">
+<div align="center">
+
+| Project | Description |
+|---------|-------------|
+| 🤖 **[AlphaAI](https://github.com/aimanyounises1/AlphaAI)** | Local Multi-Agent RAG System with GraphRAG, AutoGen & Ollama. Production-ready, privacy-first knowledge discovery platform. |
+| 🏢 **[enterprise-multi-agent-research](https://github.com/aimanyounises1/enterprise-multi-agent-research)** | Enterprise Multi-Agent AI System with MCP Protocol. Hierarchical multi-agent architecture for task orchestration. |
+| 🔬 **[ollama-deep-researcher](https://github.com/aimanyounises1/ollama-deep-researcher)** | LangGraph-Powered Deep Research System with 63-module architecture and anti-hallucination system. |
+| 🚗 **[FinalProject](https://github.com/aimanyounises1/FinalProject)** | Autonomous Car & Self-Driving System with computer vision, lane detection, and Kalman filtering. |
+| ⚡ **[C_Plus_Plus_Advanced](https://github.com/aimanyounises1/C_Plus_Plus_Advanced)** | Modern C++ & CUDA Learning Repository with 130+ exercises on C++17/20 and GPU programming. |
+| 📚 **[LangChainTutorial](https://github.com/aimanyounises1/LangChainTutorial)** | Comprehensive LangChain Learning Resource covering RAG pipelines and agent orchestration. |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=aimanyounises1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimanyounises1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
@@ -149,60 +116,70 @@ Beyond my day-to-day work, I'm deeply passionate about **AI and intelligent syst
 
 ## 💼 Professional Experience
 
+<div align="center">
+
 ### Senior Software Engineer @ Amdocs, Raanana
-*Mar 2022 – Present*
+**Mar 2022 – Present**
 
-**🔧 Tool Development & Innovation**
-- Full Stack Engineer expert in Java and SpringBoot microservices, React Js, Redux, Next.js
-- - Working with databases including MySQL, Couchbase, MongoDB, and Supabase
+</div>
+
+**🔧 Tool Development & Innovation:** Full Stack Engineer expert in Java/SpringBoot microservices, React Js, Redux, Next.js, and databases including MySQL, Couchbase, MongoDB, and Supabase.
+
+**🚀 Project Transformation & Leadership:** Transformed a critical, at-risk project to successful outcome. Honored with the **Pioneer Award** for exceptional innovation.
+
+**⭐ Performance & Recognition:** Achieved **threefold salary increase** over two years. Consistently acknowledged at annual company summits.
+
+---
+
+## 🎓 Education
+
+<div align="center">
  
-  - **🚀 Project Transformation & Leadership**
-  - - Transformed a critical, at-risk project to successful outcome
-    - - Honored with the **Pioneer Award** for exceptional innovation
-     
-      - **⭐ Performance & Recognition**
-      - - Achieved **threefold salary increase** over two years
-        - - Consistently acknowledged at annual company summits
-         
-          - ---
+ ### B.Sc. in Computer Science & Mathematics
+ **Ariel University | 2022**
+ 
+ **High Distinction** in Natural Language Processing, Computer Networking
+ 
+ **90%+ grades** in Algorithms, Software Engineering, Advanced C++ Programming
+ 
+ </div>
+ 
+ ---
+ 
+## 🎯 What I'm Working On
 
-          ## 🎓 Education
+<div align="center">
 
-          ### B.Sc. in Computer Science & Mathematics
-          **Ariel University** | *2022*
+🔬 Building production-ready multi-agent AI systems with local LLMs
 
-          - **High Distinction** in Natural Language Processing, Computer Networking
-          - - **90%+ grades** in Algorithms, Software Engineering, Advanced C++ Programming
-           
-            - ---
+📚 Deepening C++ and CUDA knowledge for performance-critical applications
 
-            ## 🎯 What I'm Working On
+🤖 Exploring advanced RAG architectures and knowledge graph implementations
 
-            - 🔬 Building production-ready multi-agent AI systems with local LLMs
-            - - 📚 Deepening C++ and CUDA knowledge for performance-critical applications
-              - - 🤖 Exploring advanced RAG architectures and knowledge graph implementations
-                - - 🌐 Contributing to open-source AI/ML tooling
-                 
-                  - ---
+🌐 Contributing to open-source AI/ML tooling
 
-                  ## 📫 Let's Connect
+</div>
 
-                  <div align="center">
+---
 
-                  I'm open to opportunities in **AI engineering** where I can apply my full-stack background and passion for intelligent systems.
+## 📫 Let's Connect
 
-                  [![Email](https://img.shields.io/badge/aimanyounises@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aimanyounises@gmail.com)
-                  [![LinkedIn](https://img.shields.io/badge/Aiman_Younis-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aimanyounis)
-                  [![GitHub](https://img.shields.io/badge/@aimanyounises1-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aimanyounises1)
+<div align="center">
 
-                  <img src="https://komarev.com/ghpvc/?username=aimanyounises1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+I'm open to opportunities in **AI engineering** where I can apply my full-stack background and passion for intelligent systems.
 
-                  </div>
+[![Email](https://img.shields.io/badge/aimanyounises@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aimanyounises@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Aiman_Younis-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aimanyounis)
+[![GitHub](https://img.shields.io/badge/@aimanyounises1-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aimanyounises1)
 
-                  ---
+<img src="https://komarev.com/ghpvc/?username=aimanyounises1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
-                  <div align="center">
+</div>
 
-                  ⭐ From [aimanyounises1](https://github.com/aimanyounises1) — Senior Software Engineer building AI innovations
+---
 
-                  </div>
+<div align="center">
+
+⭐ From [aimanyounises1](https://github.com/aimanyounises1) — Senior Software Engineer building AI innovations
+
+</div>
