@@ -1,12 +1,12 @@
+<div align="center">
+
 # Hi there, I'm Aiman Younis 👋
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;AI+%26+Multi-Agent+Systems+Builder;Full+Stack+Developer;Enterprise+Solutions+Architect)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aimanyounis)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aimanyounises1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aimanyounises@gmail.com)
-
-### Senior Software Engineer | AI Software Engineer | Multi-Agent Systems Builder
 
 </div>
 
@@ -20,9 +20,12 @@ Currently at **Amdocs, Raanana** with 4+ years of experience building enterprise
 
 Beyond my day-to-day work, I'm deeply passionate about **AI and intelligent systems**. I actively build cutting-edge AI innovations including multi-agent systems, GraphRAG implementations, and enterprise automation platforms.
 
-🎓 **B.Sc. in Computer Science & Mathematics** from Ariel University (2022, High Distinction)  
-🏆 **Pioneer Award** recipient | Multiple **Employee of the Month** awards  
-🌍 Fluent in **English**, **Hebrew**, and **Arabic**  
+🎓 **B.Sc. in Computer Science & Mathematics** from Ariel University (2022, High Distinction)
+
+🏆 **Pioneer Award** recipient | Multiple **Employee of the Month** awards
+
+🌍 Fluent in **English**, **Hebrew**, and **Arabic**
+
 📍 Based in **Israel**
 
 ---
@@ -75,151 +78,131 @@ Beyond my day-to-day work, I'm deeply passionate about **AI and intelligent syst
 
 ## 🚀 Featured AI Innovation Projects
 
-<table>
-  <tr>
-    <td width="50%">
+### 🤖 [AlphaAI](https://github.com/aimanyounises1/AlphaAI)
+> **Local Multi-Agent RAG System with GraphRAG, AutoGen & Ollama**
+>
+> A production-ready, privacy-first knowledge discovery platform that combines Microsoft's GraphRAG entity-relationship extraction with AutoGen's multi-agent orchestration.
+>
+> `GraphRAG` `AutoGen` `Ollama` `Chainlit` `Python` `LangChain` `Supabase` `NetworkX`
+>
+> ---
+>
+> ### 🏢 [enterprise-multi-agent-research](https://github.com/aimanyounises1/enterprise-multi-agent-research)
+> > **Enterprise Multi-Agent AI System with MCP Protocol**
+> >
+> > Production-grade autonomous task orchestration implementing hierarchical multi-agent architecture with MCP Protocol for standardized AI-tool communication.
+> >
+> > `Python` `MCP Protocol` `LangGraph` `LangChain` `FastMCP` `Docker`
+> >
+> > ---
+> >
+> > ### 🔬 [ollama-deep-researcher](https://github.com/aimanyounises1/ollama-deep-researcher)
+> > > **LangGraph-Powered Deep Research System**
+> > >
+> > > Enterprise research automation platform with 63-module LangGraph architecture featuring supervisor-researcher agent pattern and anti-hallucination system.
+> > >
+> > > `LangGraph` `LangChain` `Ollama` `FAISS` `Neo4j` `Next.js` `Flask`
+> > >
+> > > ---
+> > >
+> > > ### 🚗 [FinalProject](https://github.com/aimanyounises1/FinalProject)
+> > > > **Autonomous Car & Self-Driving System**
+> > > >
+> > > > Computer vision-powered autonomous driving project featuring lane detection, object tracking with DeepSort, and Kalman filtering.
+> > > >
+> > > > `Python` `OpenCV` `DeepSort` `Kalman Filter` `Jupyter Notebook`
+> > > >
+> > > > ---
+> > > >
+> > > > ### ⚡ [C_Plus_Plus_Advanced](https://github.com/aimanyounises1/C_Plus_Plus_Advanced)
+> > > > > **Modern C++ & CUDA Learning Repository**
+> > > > >
+> > > > > Active learning journey through 130+ exercises covering C++17/20 features and CUDA GPU programming.
+> > > > >
+> > > > > `C++` `CUDA` `Algorithms` `Data Structures`
+> > > > >
+> > > > > ---
+> > > > >
+> > > > > ### 📚 [LangChainTutorial](https://github.com/aimanyounises1/LangChainTutorial)
+> > > > > > **Comprehensive LangChain Learning Resource**
+> > > > > >
+> > > > > > In-depth exploration of LangChain framework capabilities, including RAG pipelines and agent orchestration.
+> > > > > >
+> > > > > > `Python` `LangChain` `AI/ML`
+> > > > > >
+> > > > > > ---
+> > > > > >
+> > > > > > ## 📊 GitHub Stats
+> > > > > >
+> > > > > > <div align="center">
 
-      ### 🤖 [AlphaAI](https://github.com/aimanyounises1/AlphaAI)
-      **Local Multi-Agent RAG System with GraphRAG, AutoGen & Ollama**
+<img src="https://github-readme-stats.vercel.app/api?username=aimanyounises1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimanyounises1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
-      A production-ready, privacy-first knowledge discovery platform that combines Microsoft's GraphRAG entity-relationship extraction with AutoGen's multi-agent orchestration. Features extended function-calling support for non-OpenAI LLMs, enabling fully local deployments with Chainlit UI for real-time agent interaction.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aimanyounises1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-      `GraphRAG` `AutoGen` `Ollama` `Chainlit` `Python` `LangChain` `Supabase` `NetworkX`
+<img src="https://github-profile-trophy.vercel.app/?username=aimanyounises1&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 
-      </td>
-      <td width="50%">
+</div>
 
-      ### 🏢 [enterprise-multi-agent-research](https://github.com/aimanyounises1/enterprise-multi-agent-research)
-      **Enterprise Multi-Agent AI System with MCP Protocol**
+---
 
-      Production-grade autonomous task orchestration implementing hierarchical multi-agent architecture. Features specialized agents for code analysis, documentation synthesis, and workflow automation with MCP Protocol for standardized AI-tool communication across Perforce, JIRA, and Confluence.
+## 💼 Professional Experience
 
-      `Python` `MCP Protocol` `LangGraph` `LangChain` `FastMCP` `Docker`
+### Senior Software Engineer @ Amdocs, Raanana
+*Mar 2022 – Present*
 
-      </td>
-      </tr>
-      <tr>
-      <td width="50%">
+**🔧 Tool Development & Innovation**
+- Full Stack Engineer expert in Java and SpringBoot microservices, React Js, Redux, Next.js
+- - Working with databases including MySQL, Couchbase, MongoDB, and Supabase
+ 
+  - **🚀 Project Transformation & Leadership**
+  - - Transformed a critical, at-risk project to successful outcome
+    - - Honored with the **Pioneer Award** for exceptional innovation
+     
+      - **⭐ Performance & Recognition**
+      - - Achieved **threefold salary increase** over two years
+        - - Consistently acknowledged at annual company summits
+         
+          - ---
 
-      ### 🔬 [ollama-deep-researcher](https://github.com/aimanyounises1/ollama-deep-researcher)
-      **LangGraph-Powered Deep Research System**
+          ## 🎓 Education
 
-      Enterprise research automation platform with 63-module LangGraph architecture. Features supervisor-researcher agent pattern, advanced anti-hallucination system with fact checking and multi-agent consensus, plus knowledge graph generation from research findings.
+          ### B.Sc. in Computer Science & Mathematics
+          **Ariel University** | *2022*
 
-      `LangGraph` `LangChain` `Ollama` `FAISS` `Neo4j` `Next.js` `Flask`
+          - **High Distinction** in Natural Language Processing, Computer Networking
+          - - **90%+ grades** in Algorithms, Software Engineering, Advanced C++ Programming
+           
+            - ---
 
-      </td>
-      <td width="50%">
+            ## 🎯 What I'm Working On
 
-      ### 🚗 [FinalProject](https://github.com/aimanyounises1/FinalProject)
-      **Autonomous Car & Self-Driving System**
+            - 🔬 Building production-ready multi-agent AI systems with local LLMs
+            - - 📚 Deepening C++ and CUDA knowledge for performance-critical applications
+              - - 🤖 Exploring advanced RAG architectures and knowledge graph implementations
+                - - 🌐 Contributing to open-source AI/ML tooling
+                 
+                  - ---
 
-      Computer vision-powered autonomous driving project featuring lane detection, object tracking with DeepSort, and Kalman filtering for vehicle control. Demonstrates deep learning and real-time image processing capabilities.
+                  ## 📫 Let's Connect
 
-      `Python` `OpenCV` `DeepSort` `Kalman Filter` `Jupyter Notebook`
+                  <div align="center">
 
-      </td>
-      </tr>
-      <tr>
-      <td width="50%">
+                  I'm open to opportunities in **AI engineering** where I can apply my full-stack background and passion for intelligent systems.
 
-      ### ⚡ [C_Plus_Plus_Advanced](https://github.com/aimanyounises1/C_Plus_Plus_Advanced)
-      **Modern C++ & CUDA Learning Repository**
+                  [![Email](https://img.shields.io/badge/aimanyounises@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aimanyounises@gmail.com)
+                  [![LinkedIn](https://img.shields.io/badge/Aiman_Younis-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aimanyounis)
+                  [![GitHub](https://img.shields.io/badge/@aimanyounises1-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aimanyounises1)
 
-      Active learning journey through 130+ exercises covering C++17/20 features, CUDA GPU programming, memory management, and performance-critical algorithms. Focused on building foundational skills for systems programming.
+                  <img src="https://komarev.com/ghpvc/?username=aimanyounises1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
-      `C++` `CUDA` `Algorithms` `Data Structures`
+                  </div>
 
-      </td>
-      <td width="50%">
+                  ---
 
-      ### 📚 [LangChainTutorial](https://github.com/aimanyounises1/LangChainTutorial)
-      **Comprehensive LangChain Learning Resource**
+                  <div align="center">
 
-      In-depth exploration of LangChain framework capabilities, including RAG pipelines, agent orchestration, and LLM integration patterns.
+                  ⭐ From [aimanyounises1](https://github.com/aimanyounises1) — Senior Software Engineer building AI innovations
 
-      `Python` `LangChain` `AI/ML`
-
-      </td>
-      </tr>
-      </table>
-
-      ---
-
-      ## 📊 GitHub Stats
-
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=aimanyounises1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimanyounises1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-          </p>
-
-          <p align="center">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=aimanyounises1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-            </p>
-
-            <p align="center">
-              <img src="https://github-profile-trophy.vercel.app/?username=aimanyounises1&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-              </p>
-
-              ---
-
-              ## 💼 Professional Experience
-
-              **Senior Software Engineer** @ Amdocs, Raanana *(Mar 2022 – Present)*
-
-              **Tool Development & Innovation**
-              - Full Stack Engineer expert in Java and SpringBoot microservices, React Js, Redux, Next.js, with databases including MySQL, Couchbase, MongoDB, and Supabase
-              - Engineering innovative developer tools to enhance coding efficiency and streamline defect investigation, improving team productivity in an agile environment
-
-              **Project Transformation & Leadership**
-              - Played a pivotal role in transforming a critical, at-risk project to successful outcome shortly after joining the team, ensuring timely delivery
-              - Honored with the **Pioneer Award** for exceptional innovation and initiative
-
-              **Performance & Recognition**
-              - Successfully resolved 6 critical one-shot bounces, gaining unanimous commendation from all supervisors for reliability, excellence, and attention to detail
-              - Consistently acknowledged at annual company summits for contributions to team success
-              - Achieved **threefold salary increase** over two years, demonstrating consistent performance and value
-
-              ---
-
-              ## 🎓 Education
-
-              **B.Sc. in Computer Science & Mathematics** | Ariel University *(2022)*
-
-              - **High Distinction** in Natural Language Processing, Computer Networking
-              - **90%+ grades** in Algorithms, Software Engineering, Advanced C++ Programming
-              - **Dual concentration** in Computer Science and Mathematics
-              - Demonstrated mastery in both theoretical and practical aspects including object-oriented programming principles and fundamental Data Structures
-
-              ---
-
-              ## 🎯 What I'm Working On
-
-              - 🔬 Building production-ready multi-agent AI systems with local LLMs
-              - 📚 Deepening C++ and CUDA knowledge for performance-critical applications
-              - 🤖 Exploring advanced RAG architectures and knowledge graph implementations
-              - 🌐 Contributing to open-source AI/ML tooling
-
-              ---
-
-              ## 📫 Let's Connect
-
-              <div align="center">
-
-              I'm open to opportunities in **AI engineering** where I can apply my full-stack background and passion for intelligent systems.
-
-              [![Email](https://img.shields.io/badge/aimanyounises@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aimanyounises@gmail.com)
-              [![LinkedIn](https://img.shields.io/badge/Aiman_Younis-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aimanyounis)
-              [![GitHub](https://img.shields.io/badge/@aimanyounises1-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aimanyounises1)
-
-              <img src="https://komarev.com/ghpvc/?username=aimanyounises1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-
-              </div>
-
-              ---
-
-              <p align="center">
-                <i>⭐ From <a href="https://github.com/aimanyounises1">aimanyounises1</a> — Senior Software Engineer building AI innovations</i>
-                </p>
-  </tr>
-</table>
+                  </div>
