@@ -101,16 +101,26 @@ Beyond my day-to-day work, I'm deeply passionate about **AI and intelligent syst
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/aimanyounises1">
+      <img src="https://github-readme-stats.vercel.app/api?username=aimanyounises1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  </a>a>
+    <a href="https://github.com/aimanyounises1">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimanyounises1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+    </a>a>
+</p>p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aimanyounises1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimanyounises1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<p align="center">
+  <a href="https://github.com/aimanyounises1">
+      <img src="https://streak-stats.demolab.com/?user=aimanyounises1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </a>a>
+</p>p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aimanyounises1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=aimanyounises1&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=aimanyounises1&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  </a>a>
+</p>p>
 
 ---
 
