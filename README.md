@@ -104,10 +104,10 @@ Beyond my day-to-day work, I'm deeply passionate about **AI and intelligent syst
 
 <p align="center">
     <a href="https://github.com/aimanyounises1">
-          <img src="https://github-readme-stats.vercel.app/api?username=aimanyounises1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="165"/>
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aimanyounises1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="165"/>
     </a>
     <a href="https://github.com/aimanyounises1">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimanyounises1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" height="165"/>
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aimanyounises1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" height="165"/>
     </a>
 </p>
 
@@ -123,6 +123,12 @@ Beyond my day-to-day work, I'm deeply passionate about **AI and intelligent syst
   </a>
 </p>
 
+
+<p align="center">
+      <a href="https://github.com/aimanyounises1">
+              <img src="https://github-readme-activity-graph.vercel.app/graph?username=aimanyounises1&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+      </a>
+</p>
 ---
 
 ## 💼 Professional Experience
