@@ -113,7 +113,7 @@ Beyond my day-to-day work, I'm deeply passionate about **AI and intelligent syst
 
 <p align="center">
   <a href="https://github.com/aimanyounises1">
-      <img src="https://streak-stats.onrender.com/?user=aimanyounises1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+      <img src="https://github-readme-streak-stats-iota-cyan.vercel.app/?user=aimanyounises1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   </a>
 </p>
 
