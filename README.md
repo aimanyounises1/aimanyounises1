@@ -2,7 +2,7 @@
 
 # Hi there, I'm Aiman Younis 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;AI+%26+Multi-Agent+Systems+Builder;Full+Stack+Developer;Enterprise+Solutions+Architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.onrender.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;AI+%26+Multi-Agent+Systems+Builder;Full+Stack+Developer;Enterprise+Solutions+Architect)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aimanyounis)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aimanyounises1)
@@ -113,13 +113,13 @@ Beyond my day-to-day work, I'm deeply passionate about **AI and intelligent syst
 
 <p align="center">
   <a href="https://github.com/aimanyounises1">
-      <img src="https://streak-stats.demolab.com/?user=aimanyounises1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+      <img src="https://streak-stats.onrender.com/?user=aimanyounises1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=aimanyounises1&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+      <img src="https://github-trophies.vercel.app/?username=aimanyounises1&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
   </a>
 </p>
 
