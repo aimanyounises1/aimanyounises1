@@ -2,7 +2,7 @@
 
 # Hi there, I'm Aiman Younis 👋
 
-[![Typing SVG](https://readme-typing-svg.onrender.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;AI+%26+Multi-Agent+Systems+Builder;Full+Stack+Developer;Enterprise+Solutions+Architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;AI+%26+Multi-Agent+Systems+Builder;Full+Stack+Developer;Enterprise+Solutions+Architect)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aimanyounis)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aimanyounises1)
@@ -16,7 +16,7 @@
 
 Highly motivated **Senior Software Engineer** specializing in enterprise-scale solutions and Artificial Intelligence integration, with expertise in **Java microservices**, **Python for AI/ML**, **React ecosystem**, and **multi-agent AI systems**. Proven track record of transforming critical projects from failure to success, implementing production-grade monitoring systems, and developing innovative Enterprise AI solutions.
 
-Currently at **Amdocs, Raanana** with 4+ years of experience building enterprise-scale telecom solutions for tier-one providers. My professional work centers on **React frontend development** and **Java/Spring Boot backend systems**, delivering mission-critical production infrastructure.
+Previously at **Amdocs, Raanana** with 4+ years of experience building enterprise-scale telecom solutions for tier-one providers. My professional work centered on **React frontend development** and **Java/Spring Boot backend systems**, delivering mission-critical production infrastructure.
 
 Beyond my day-to-day work, I'm deeply passionate about **AI and intelligent systems**. I actively build cutting-edge AI innovations including multi-agent systems, GraphRAG implementations, and enterprise automation platforms.
 
@@ -92,7 +92,6 @@ Beyond my day-to-day work, I'm deeply passionate about **AI and intelligent syst
 | 🏢 **[enterprise-multi-agent-research](https://github.com/aimanyounises1/enterprise-multi-agent-research)** | Enterprise Multi-Agent AI System with MCP Protocol. Hierarchical multi-agent architecture for task orchestration. |
 | 🔬 **[ollama-deep-researcher](https://github.com/aimanyounises1/ollama-deep-researcher)** | LangGraph-Powered Deep Research System with 63-module architecture and anti-hallucination system. |
 | 🚗 **[FinalProject](https://github.com/aimanyounises1/FinalProject)** | Autonomous Car & Self-Driving System with computer vision, lane detection, and Kalman filtering. |
-| ⚡ **[C_Plus_Plus_Advanced](https://github.com/aimanyounises1/C_Plus_Plus_Advanced)** | Modern C++ & CUDA Learning Repository with 130+ exercises on C++17/20 and GPU programming. |
 | 📚 **[LangChainTutorial](https://github.com/aimanyounises1/LangChainTutorial)** | Comprehensive LangChain Learning Resource covering RAG pipelines and agent orchestration. |
 
 </div>
@@ -104,16 +103,16 @@ Beyond my day-to-day work, I'm deeply passionate about **AI and intelligent syst
 
 <p align="center">
     <a href="https://github.com/aimanyounises1">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aimanyounises1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="165"/>
+          <img src="./profile/stats.svg" alt="GitHub Stats" height="165"/>
     </a>
     <a href="https://github.com/aimanyounises1">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aimanyounises1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" height="165"/>
+          <img src="./profile/top-langs.svg" alt="Top Languages" height="165"/>
     </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/aimanyounises1">
-      <img src="https://github-readme-streak-stats-eight-liard.vercel.app/?user=aimanyounises1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+      <img src="https://streak-stats.demolab.com/?user=aimanyounises1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   </a>
 </p>
 
@@ -123,12 +122,6 @@ Beyond my day-to-day work, I'm deeply passionate about **AI and intelligent syst
   </a>
 </p>
 
-
-<p align="center">
-      <a href="https://github.com/aimanyounises1">
-              <img src="https://github-readme-activity-graph.vercel.app/graph?username=aimanyounises1&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-      </a>
-</p>
 ---
 
 ## 💼 Professional Experience
@@ -136,15 +129,15 @@ Beyond my day-to-day work, I'm deeply passionate about **AI and intelligent syst
 <div align="center">
 
 ### Senior Software Engineer @ Amdocs, Raanana
-**Mar 2022 – Present**
+**Mar 2022 – Nov 2025**
 
 </div>
 
-**🔧 Tool Development & Innovation:** Full Stack Engineer expert in Java/SpringBoot microservices, React Js, Redux, Next.js, and databases including MySQL, Couchbase, MongoDB, and Supabase.
+**🔧 Tool Development & Innovation:** Full Stack Engineer expert in Java/Spring Boot microservices, React.js, Redux, Next.js, and databases including MySQL, Couchbase, MongoDB, and Supabase.
 
-**🚀 Project Transformation & Leadership:** Transformed a critical, at-risk project to successful outcome. Honored with the **Pioneer Award** for exceptional innovation.
+**🚀 Project Transformation & Leadership:** Transformed a critical, at-risk project into a successful outcome. Honored with the **Pioneer Award** for exceptional innovation.
 
-**⭐ Performance & Recognition:** Achieved **threefold salary increase** over two years. Consistently acknowledged at annual company summits.
+**⭐ Performance & Recognition:** Achieved a **threefold salary increase** over two years. Consistently acknowledged at annual company summits.
 
 ---
 
