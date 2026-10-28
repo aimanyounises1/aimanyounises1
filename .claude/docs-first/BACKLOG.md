@@ -1,0 +1,11 @@
+# Scoped work
+
+- [x] Make the public profile communicate role fit and engineering evidence to hiring managers.
+  - Definition of done: `sh .claude/docs-first/verify.sh`; separate factual/editorial review.
+  - Libraries touched: none; Markdown only.
+  - Sources: supplied background; reviewed project source, documentation, and genuine application screenshot.
+
+- [x] Replace the profile README with a concise, evidence-based introduction and three curated projects.
+  - Definition of done: `sh .claude/docs-first/verify.sh`.
+  - Libraries touched: none; Markdown and a shell verification entry point only.
+  - Sources: the account owner's supplied experience and degree; the featured repositories' current source and documentation.
